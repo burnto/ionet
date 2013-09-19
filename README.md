@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/paypal/ionet.png)](https://travis-ci.org/paypal/ionet)
+
 ionet provides a [net.Conn](http://golang.org/pkg/net/#Conn) and a
 [net.Listener](http://golang.org/pkg/net/#Listener) in which connections
 use an [io.Reader](http://golang.org/pkg/io/#Reader) and an
@@ -18,4 +20,4 @@ mediated network.
 
 See godoc for usage.
 
-ionet is released under a BSD-style license similar to Go's.
+ionet requires Go 1.1 or later, and is released under a BSD-style license similar to Go's.
