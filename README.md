@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/burnto/ionet.png)](https://travis-ci.org/burnto/ionet)
+
 ionet provides a [net.Conn](http://golang.org/pkg/net/#Conn) and a
 [net.Listener](http://golang.org/pkg/net/#Listener) in which connections
 use an [io.Reader](http://golang.org/pkg/io/#Reader) and an
