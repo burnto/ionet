@@ -20,4 +20,4 @@ mediated network.
 
 See godoc for usage.
 
-ionet is released under a BSD-style license similar to Go's.
+ionet requires Go 1.1 or alter, and is released under a BSD-style license similar to Go's.
